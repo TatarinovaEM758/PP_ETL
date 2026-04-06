@@ -1,0 +1,532 @@
+city;total_customers
+New York City                                                                                       ;430
+Los Angeles                                                                                         ;367
+Philadelphia                                                                                        ;259
+San Francisco                                                                                       ;255
+Seattle                                                                                             ;205
+Houston                                                                                             ;181
+Chicago                                                                                             ;165
+Columbus                                                                                            ;105
+San Diego                                                                                           ;88
+Dallas                                                                                              ;80
+Springfield                                                                                         ;72
+Jacksonville                                                                                        ;61
+Detroit                                                                                             ;50
+Newark                                                                                              ;44
+Richmond                                                                                            ;40
+Jackson                                                                                             ;36
+Aurora                                                                                              ;35
+Miami                                                                                               ;34
+Columbia                                                                                            ;33
+Long Beach                                                                                          ;33
+Arlington                                                                                           ;31
+Lakewood                                                                                            ;29
+Louisville                                                                                          ;28
+Phoenix                                                                                             ;28
+Rochester                                                                                           ;28
+San Antonio                                                                                         ;27
+Lancaster                                                                                           ;26
+Fairfield                                                                                           ;24
+Charlotte                                                                                           ;24
+Milwaukee                                                                                           ;23
+Concord                                                                                             ;21
+Lawrence                                                                                            ;21
+Cleveland                                                                                           ;21
+Baltimore                                                                                           ;21
+Fayetteville                                                                                        ;20
+Franklin                                                                                            ;20
+Henderson                                                                                           ;19
+Pasadena                                                                                            ;19
+Austin                                                                                              ;18
+Wilmington                                                                                          ;18
+Lafayette                                                                                           ;17
+Huntsville                                                                                          ;17
+Denver                                                                                              ;17
+Atlanta                                                                                             ;17
+San Jose                                                                                            ;17
+Decatur                                                                                             ;16
+Nashville                                                                                           ;16
+Salem                                                                                               ;15
+Toledo                                                                                              ;15
+Portland                                                                                            ;15
+Omaha                                                                                               ;14
+Tampa                                                                                               ;14
+Mesa                                                                                                ;14
+Burlington                                                                                          ;14
+Memphis                                                                                             ;14
+Troy                                                                                                ;14
+Glendale                                                                                            ;13
+Tulsa                                                                                               ;13
+Minneapolis                                                                                         ;13
+Roseville                                                                                           ;13
+Providence                                                                                          ;13
+Raleigh                                                                                             ;13
+Oakland                                                                                             ;13
+Oceanside                                                                                           ;13
+Fort Lauderdale                                                                                     ;12
+Monroe                                                                                              ;12
+Fort Worth                                                                                          ;12
+Tucson                                                                                              ;12
+Indianapolis                                                                                        ;12
+Cincinnati                                                                                          ;12
+Virginia Beach                                                                                      ;11
+Quincy                                                                                              ;11
+Oklahoma City                                                                                       ;11
+Dover                                                                                               ;11
+Florence                                                                                            ;11
+Marion                                                                                              ;11
+Chesapeake                                                                                          ;10
+Hialeah                                                                                             ;10
+Des Moines                                                                                          ;10
+Knoxville                                                                                           ;10
+El Paso                                                                                             ;10
+Clinton                                                                                             ;10
+Akron                                                                                               ;10
+Fresno                                                                                              ;10
+Auburn                                                                                              ;10
+Bloomington                                                                                         ;10
+Peoria                                                                                              ;9
+Colorado Springs                                                                                    ;9
+Smyrna                                                                                              ;9
+Riverside                                                                                           ;9
+Anaheim                                                                                             ;9
+Everett                                                                                             ;9
+Roswell                                                                                             ;9
+Tallahassee                                                                                         ;9
+Sacramento                                                                                          ;8
+Rockford                                                                                            ;8
+Carrollton                                                                                          ;8
+Las Vegas                                                                                           ;8
+Greensboro                                                                                          ;8
+Plano                                                                                               ;8
+Hollywood                                                                                           ;8
+Bakersfield                                                                                         ;8
+Plainfield                                                                                          ;7
+Lowell                                                                                              ;7
+North Las Vegas                                                                                     ;7
+Watertown                                                                                           ;7
+Albuquerque                                                                                         ;7
+Amarillo                                                                                            ;7
+Buffalo                                                                                             ;7
+Santa Ana                                                                                           ;7
+Fremont                                                                                             ;7
+Grand Prairie                                                                                       ;7
+Scottsdale                                                                                          ;7
+Bristol                                                                                             ;7
+Asheville                                                                                           ;6
+Montgomery                                                                                          ;6
+Little Rock                                                                                         ;6
+Kent                                                                                                ;6
+Chandler                                                                                            ;6
+Middletown                                                                                          ;6
+Brentwood                                                                                           ;6
+Bowling Green                                                                                       ;6
+Yonkers                                                                                             ;6
+Alexandria                                                                                          ;6
+Lakeland                                                                                            ;6
+Chattanooga                                                                                         ;6
+Paterson                                                                                            ;6
+Grand Rapids                                                                                        ;6
+Saint Petersburg                                                                                    ;6
+Dublin                                                                                              ;6
+Saint Charles                                                                                       ;6
+Redmond                                                                                             ;6
+Freeport                                                                                            ;6
+Orlando                                                                                             ;6
+Tempe                                                                                               ;6
+Hampton                                                                                             ;5
+Mount Vernon                                                                                        ;5
+Fort Collins                                                                                        ;5
+Costa Mesa                                                                                          ;5
+Durham                                                                                              ;5
+Moreno Valley                                                                                       ;5
+Orem                                                                                                ;5
+Waterbury                                                                                           ;5
+Lakeville                                                                                           ;5
+Naperville                                                                                          ;5
+Newport News                                                                                        ;5
+Stockton                                                                                            ;5
+Bellevue                                                                                            ;5
+Lorain                                                                                              ;5
+Apple Valley                                                                                        ;5
+Jonesboro                                                                                           ;5
+Morristown                                                                                          ;5
+Edmonds                                                                                             ;5
+Wichita                                                                                             ;5
+Meriden                                                                                             ;5
+Carlsbad                                                                                            ;5
+Greenville                                                                                          ;5
+Salt Lake City                                                                                      ;5
+New Rochelle                                                                                        ;5
+Irving                                                                                              ;5
+Spokane                                                                                             ;5
+Huntington Beach                                                                                    ;5
+Cranston                                                                                            ;5
+Skokie                                                                                              ;5
+Gilbert                                                                                             ;5
+Athens                                                                                              ;5
+Midland                                                                                             ;5
+Pomona                                                                                              ;5
+Orange                                                                                              ;5
+Santa Barbara                                                                                       ;5
+Inglewood                                                                                           ;4
+Thousand Oaks                                                                                       ;4
+Manchester                                                                                          ;4
+Suffolk                                                                                             ;4
+Rancho Cucamonga                                                                                    ;4
+Norwich                                                                                             ;4
+Provo                                                                                               ;4
+Waco                                                                                                ;4
+Utica                                                                                               ;4
+Eau Claire                                                                                          ;4
+Wheeling                                                                                            ;4
+Yuma                                                                                                ;4
+Belleville                                                                                          ;4
+La Porte                                                                                            ;4
+San Bernardino                                                                                      ;4
+Macon                                                                                               ;4
+Gresham                                                                                             ;4
+Harrisonburg                                                                                        ;4
+Washington                                                                                          ;4
+Westfield                                                                                           ;4
+Pueblo                                                                                              ;4
+Trenton                                                                                             ;4
+Westminster                                                                                         ;4
+Chester                                                                                             ;4
+Mobile                                                                                              ;4
+Brownsville                                                                                         ;4
+Hempstead                                                                                           ;4
+Murray                                                                                              ;4
+Saint Louis                                                                                         ;4
+Parma                                                                                               ;4
+Pembroke Pines                                                                                      ;4
+Coral Springs                                                                                       ;4
+Murfreesboro                                                                                        ;4
+Salinas                                                                                             ;4
+Green Bay                                                                                           ;4
+Mcallen                                                                                             ;4
+Sandy Springs                                                                                       ;4
+Oxnard                                                                                              ;4
+Perth Amboy                                                                                         ;4
+Boynton Beach                                                                                       ;4
+New Bedford                                                                                         ;4
+Laredo                                                                                              ;4
+Woodstock                                                                                           ;4
+Redlands                                                                                            ;4
+Warwick                                                                                             ;4
+Vineland                                                                                            ;4
+Madison                                                                                             ;4
+Reading                                                                                             ;4
+Lubbock                                                                                             ;4
+Deltona                                                                                             ;4
+Sparks                                                                                              ;3
+Vancouver                                                                                           ;3
+Garland                                                                                             ;3
+Vallejo                                                                                             ;3
+Sterling Heights                                                                                    ;3
+Apopka                                                                                              ;3
+Great Falls                                                                                         ;3
+Hesperia                                                                                            ;3
+Modesto                                                                                             ;3
+Medina                                                                                              ;3
+Chico                                                                                               ;3
+Boise                                                                                               ;3
+Cuyahoga Falls                                                                                      ;3
+Eagan                                                                                               ;3
+Waynesboro                                                                                          ;3
+Clarksville                                                                                         ;3
+Pocatello                                                                                           ;3
+Corpus Christi                                                                                      ;3
+Redondo Beach                                                                                       ;3
+Hattiesburg                                                                                         ;3
+Milford                                                                                             ;3
+Mesquite                                                                                            ;3
+Westland                                                                                            ;3
+Odessa                                                                                              ;3
+Marietta                                                                                            ;3
+Farmington                                                                                          ;3
+West Palm Beach                                                                                     ;3
+Santa Clara                                                                                         ;3
+Las Cruces                                                                                          ;3
+Cambridge                                                                                           ;3
+Reno                                                                                                ;3
+Port Saint Lucie                                                                                    ;3
+Port Arthur                                                                                         ;3
+Lansing                                                                                             ;3
+Plantation                                                                                          ;3
+Woonsocket                                                                                          ;3
+Avondale                                                                                            ;3
+Evanston                                                                                            ;3
+Cary                                                                                                ;3
+Bolingbrook                                                                                         ;3
+Sioux Falls                                                                                         ;3
+Thornton                                                                                            ;3
+Park Ridge                                                                                          ;3
+Wilson                                                                                              ;3
+Miramar                                                                                             ;3
+Medford                                                                                             ;3
+Highland Park                                                                                       ;3
+Mission Viejo                                                                                       ;3
+Palm Coast                                                                                          ;3
+Escondido                                                                                           ;3
+Olympia                                                                                             ;3
+Round Rock                                                                                          ;3
+Hamilton                                                                                            ;3
+Kenosha                                                                                             ;3
+Tigard                                                                                              ;3
+Loveland                                                                                            ;3
+Broken Arrow                                                                                        ;3
+Overland Park                                                                                       ;3
+Garden City                                                                                         ;3
+Lebanon                                                                                             ;3
+Taylor                                                                                              ;3
+Revere                                                                                              ;3
+Chula Vista                                                                                         ;3
+Gulfport                                                                                            ;3
+Rockville                                                                                           ;3
+Georgetown                                                                                          ;3
+Laguna Niguel                                                                                       ;3
+Johnson City                                                                                        ;3
+Beaumont                                                                                            ;3
+Rome                                                                                                ;3
+The Colony                                                                                          ;2
+Mishawaka                                                                                           ;2
+Charlottesville                                                                                     ;2
+Hackensack                                                                                          ;2
+Helena                                                                                              ;2
+Allentown                                                                                           ;2
+Niagara Falls                                                                                       ;2
+Royal Oak                                                                                           ;2
+Frankfort                                                                                           ;2
+Greenwood                                                                                           ;2
+Tuscaloosa                                                                                          ;2
+Tyler                                                                                               ;2
+Fargo                                                                                               ;2
+Torrance                                                                                            ;2
+Woodbury                                                                                            ;2
+Bethlehem                                                                                           ;2
+Holland                                                                                             ;2
+Visalia                                                                                             ;2
+Coppell                                                                                             ;2
+Bryan                                                                                               ;2
+Southaven                                                                                           ;2
+Haltom City                                                                                         ;2
+Texas City                                                                                          ;2
+Lake Forest                                                                                         ;2
+Independence                                                                                        ;2
+Allen                                                                                               ;2
+Woodland                                                                                            ;2
+Sierra Vista                                                                                        ;2
+Boca Raton                                                                                          ;2
+Parker                                                                                              ;2
+League City                                                                                         ;2
+Thomasville                                                                                         ;2
+Des Plaines                                                                                         ;2
+North Charleston                                                                                    ;2
+Noblesville                                                                                         ;2
+Lehi                                                                                                ;2
+Hickory                                                                                             ;2
+Saginaw                                                                                             ;2
+Maple Grove                                                                                         ;2
+Saint Paul                                                                                          ;2
+Frisco                                                                                              ;2
+College Station                                                                                     ;2
+Urbandale                                                                                           ;2
+West Jordan                                                                                         ;2
+York                                                                                                ;2
+Pompano Beach                                                                                       ;2
+Longmont                                                                                            ;2
+Bedford                                                                                             ;2
+Cedar Hill                                                                                          ;2
+Elmhurst                                                                                            ;2
+Malden                                                                                              ;2
+Santa Fe                                                                                            ;2
+Bellingham                                                                                          ;2
+Camarillo                                                                                           ;2
+Bossier City                                                                                        ;2
+Moorhead                                                                                            ;2
+Leominster                                                                                          ;2
+Pleasant Grove                                                                                      ;2
+Muskogee                                                                                            ;2
+Hendersonville                                                                                      ;2
+Covington                                                                                           ;2
+Sunnyvale                                                                                           ;2
+Hot Springs                                                                                         ;2
+Lincoln Park                                                                                        ;2
+East Orange                                                                                         ;2
+Olathe                                                                                              ;2
+Canton                                                                                              ;2
+Dearborn                                                                                            ;2
+Edinburg                                                                                            ;2
+Pasco                                                                                               ;2
+La Crosse                                                                                           ;2
+Tamarac                                                                                             ;2
+Pearland                                                                                            ;2
+Owensboro                                                                                           ;2
+Norman                                                                                              ;2
+Buffalo Grove                                                                                       ;2
+Dearborn Heights                                                                                    ;2
+Draper                                                                                              ;2
+Jamestown                                                                                           ;2
+Nashua                                                                                              ;2
+North Miami                                                                                         ;2
+El Cajon                                                                                            ;2
+Marysville                                                                                          ;2
+Bangor                                                                                              ;2
+Danville                                                                                            ;2
+Lake Charles                                                                                        ;2
+Homestead                                                                                           ;2
+Appleton                                                                                            ;2
+Broomfield                                                                                          ;2
+San Angelo                                                                                          ;2
+Daytona Beach                                                                                       ;2
+Harlingen                                                                                           ;2
+Ann Arbor                                                                                           ;2
+Longview                                                                                            ;2
+Meridian                                                                                            ;2
+Texarkana                                                                                           ;2
+Pharr                                                                                               ;2
+Delray Beach                                                                                        ;2
+Lawton                                                                                              ;2
+Lodi                                                                                                ;2
+Mansfield                                                                                           ;2
+Lewiston                                                                                            ;2
+Manteca                                                                                             ;2
+Warner Robins                                                                                       ;2
+Oak Park                                                                                            ;2
+Encinitas                                                                                           ;2
+Hoover                                                                                              ;2
+Hillsboro                                                                                           ;2
+Superior                                                                                            ;2
+Mount Pleasant                                                                                      ;2
+Dubuque                                                                                             ;2
+Ormond Beach                                                                                        ;1
+Danbury                                                                                             ;1
+Bullhead City                                                                                       ;1
+Jefferson City                                                                                      ;1
+Rochester Hills                                                                                     ;1
+Morgan Hill                                                                                         ;1
+Grove City                                                                                          ;1
+Edmond                                                                                              ;1
+Littleton                                                                                           ;1
+Orland Park                                                                                         ;1
+Yucaipa                                                                                             ;1
+Missouri City                                                                                       ;1
+Rogers                                                                                              ;1
+Pensacola                                                                                           ;1
+Bozeman                                                                                             ;1
+Montebello                                                                                          ;1
+Goldsboro                                                                                           ;1
+Kirkwood                                                                                            ;1
+Elyria                                                                                              ;1
+Normal                                                                                              ;1
+Shelton                                                                                             ;1
+Linden                                                                                              ;1
+Grand Island                                                                                        ;1
+Glenview                                                                                            ;1
+Bridgeton                                                                                           ;1
+Baytown                                                                                             ;1
+Gladstone                                                                                           ;1
+Gastonia                                                                                            ;1
+San Clemente                                                                                        ;1
+Rapid City                                                                                          ;1
+Hagerstown                                                                                          ;1
+Cottage Grove                                                                                       ;1
+Manhattan                                                                                           ;1
+Elkhart                                                                                             ;1
+Billings                                                                                            ;1
+Carol Stream                                                                                        ;1
+Lake Elsinore                                                                                       ;1
+Logan                                                                                               ;1
+Santa Maria                                                                                         ;1
+Marlborough                                                                                         ;1
+Conway                                                                                              ;1
+Murrieta                                                                                            ;1
+Davis                                                                                               ;1
+Palatine                                                                                            ;1
+Saint Cloud                                                                                         ;1
+Saint Peters                                                                                        ;1
+Portage                                                                                             ;1
+Temecula                                                                                            ;1
+Margate                                                                                             ;1
+Commerce City                                                                                       ;1
+Port Orange                                                                                         ;1
+Greeley                                                                                             ;1
+Romeoville                                                                                          ;1
+Deer Park                                                                                           ;1
+Coon Rapids                                                                                         ;1
+Bayonne                                                                                             ;1
+East Point                                                                                          ;1
+Redding                                                                                             ;1
+Englewood                                                                                           ;1
+Champaign                                                                                           ;1
+Clovis                                                                                              ;1
+Altoona                                                                                             ;1
+San Mateo                                                                                           ;1
+Atlantic City                                                                                       ;1
+Jupiter                                                                                             ;1
+Andover                                                                                             ;1
+Keller                                                                                              ;1
+La Quinta                                                                                           ;1
+San Marcos                                                                                          ;1
+Lindenhurst                                                                                         ;1
+Kenner                                                                                              ;1
+South Bend                                                                                          ;1
+Whittier                                                                                            ;1
+Vacaville                                                                                           ;1
+Sheboygan                                                                                           ;1
+Eugene                                                                                              ;1
+Burbank                                                                                             ;1
+San Gabriel                                                                                         ;1
+Arlington Heights                                                                                   ;1
+Clifton                                                                                             ;1
+Oswego                                                                                              ;1
+Waukesha                                                                                            ;1
+Caldwell                                                                                            ;1
+Layton                                                                                              ;1
+La Mesa                                                                                             ;1
+Citrus Heights                                                                                      ;1
+West Allis                                                                                          ;1
+Richardson                                                                                          ;1
+Arvada                                                                                              ;1
+Mentor                                                                                              ;1
+Cheyenne                                                                                            ;1
+New Brunswick                                                                                       ;1
+Tinley Park                                                                                         ;1
+Summerville                                                                                         ;1
+Renton                                                                                              ;1
+Wausau                                                                                              ;1
+Redwood City                                                                                        ;1
+Ontario                                                                                             ;1
+Pine Bluff                                                                                          ;1
+Coral Gables                                                                                        ;1
+Melbourne                                                                                           ;1
+San Luis Obispo                                                                                     ;1
+Bartlett                                                                                            ;1
+New Albany                                                                                          ;1
+Holyoke                                                                                             ;1
+Passaic                                                                                             ;1
+Laurel                                                                                              ;1
+Norfolk                                                                                             ;1
+Cedar Rapids                                                                                        ;1
+Conroe                                                                                              ;1
+Abilene                                                                                             ;1
+Rock Hill                                                                                           ;1
+Sanford                                                                                             ;1
+Coachella                                                                                           ;1
+Beverly                                                                                             ;1
+Iowa City                                                                                           ;1
+Gaithersburg                                                                                        ;1
+Chapel Hill                                                                                         ;1
+Antioch                                                                                             ;1
+Mason                                                                                               ;1
+Pico Rivera                                                                                         ;1
+Missoula                                                                                            ;1
+Rio Rancho                                                                                          ;1
+Springdale                                                                                          ;1
+Waterloo                                                                                            ;1
+Aberdeen                                                                                            ;1
+Grapevine                                                                                           ;1
+Twin Falls                                                                                          ;1
+New Castle                                                                                          ;1
+Kissimmee                                                                                           ;1
