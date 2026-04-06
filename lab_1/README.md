@@ -38,6 +38,10 @@
 
 ![](https://github.com/TatarinovaEM758/PP_ETL/blob/main/lab_1/img/8%20etl.png)
 
+Результат в phpMyAdmin
+
+![](https://github.com/TatarinovaEM758/PP_ETL/blob/main/lab_1/img/res.png)
+
 Результат
 
 ![](https://github.com/TatarinovaEM758/PP_ETL/blob/main/lab_1/img/9%20etl.png)
